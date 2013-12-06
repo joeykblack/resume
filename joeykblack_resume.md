@@ -14,9 +14,9 @@ Summary of Qualifications
 
 Professional Experience
 -----------------------
-NAVAIR, FRCSE
-IT Specialist, 6/22/2009 — Present
-    Supervisor: Bill Carey
+NAVAIR, FRCSE  
+IT Specialist, 6/22/2009 — Present  
+    Supervisor: Bill Carey  
 Responsibilities and Activities:
 * Design and development of a CVS reporting tool
 * Design and development on CONOPS and MAXIMO Interfaces projects
@@ -28,9 +28,9 @@ Primary Technologie:
 
 Education
 ---------
-University of North Florida, Jacksonville, Florida
-Bachelor of Science, Major in Computer Science, April 2009
-GPA: 3.8/4.0
+University of North Florida, Jacksonville, Florida  
+Bachelor of Science, Major in Computer Science, April 2009  
+GPA: 3.8/4.0  
 Honors & Awards:
 * Dean's List: Spring 06 through Fall 08
 * President's Honor Roll: Fall 06, Spring 06
@@ -51,10 +51,10 @@ Personal Projects
 
 Other Work Experience
 ---------------------
-* Ponte Vedra Inn and Club, Ponte Vedra Beach, Florida
+* Ponte Vedra Inn and Club, Ponte Vedra Beach, Florida  
 	Security Guard, 2/2008 – 10/2008
-* Beaches Chapel School, Jacksonville, Florida
-	STARS Karate Instructor, Fall 2006 and Spring 2007
+* Beaches Chapel School, Jacksonville, Florida  
+	STARS Karate Instructor, Fall 2006 and Spring 2007  
 	Karate classes for kids ages k5 through 4th grade. 
-* Construction for independent contractor Jimmy Hughes 
+* Construction for independent contractor Jimmy Hughes  
 	Jacksonville Beach, Florida, Summer 2003
