@@ -21,6 +21,7 @@ Responsibilities and Activities:
 * Design and development of a CVS reporting tool
 * Design and development on CONOPS and MAXIMO Interfaces projects
 * Supporting MAXIMO Core  
+
 Primary Technologie:
 * Java
 * GWT
@@ -37,6 +38,7 @@ Honors & Awards:
 * Academic Excellence in Computer Science: Spring 08
 * UPE Honors Society
 * Graduated summa cum laude 09   
+
 Courses taken include:
 * Computer Graphics
 * Particle Systems (DIS under Dr. Chua)
