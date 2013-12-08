@@ -3,13 +3,15 @@ Joey K Black
 
 Jacksonville, Florida
 joeykblack@gmail.com
-<joeykblack.github.io>
+joeykblack.github.io
 
 Summary of Qualifications
 -------------------------
 
-*   BS in Computer Science (summa cum laude, UNF April 09)
+*   BS in Computer Science
+
 *   4+ years professional experience
+
 *   9+ years programming experience
 
 Work Experience
@@ -61,9 +63,9 @@ Education
 Personal Projects 
 -----------------
 
-*   Particle Engine: I developed a particle rendering engine using C++, OpenGL and NVIDIA hardware acceleration.
+*   **Particle Engine**: I developed a particle rendering engine using C++, OpenGL and NVIDIA hardware acceleration.
 
-*   Computer Go: I currently enjoy studying game playing algorithms for Go.
+*   **Computer Go**: I currently enjoy studying game playing algorithms for Go.
 
 Other Work Experience
 ---------------------
