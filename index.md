@@ -3,7 +3,8 @@ Joey K Black
 
 Jacksonville, Florida
 joeykblack@gmail.com
-joeykblack.github.io
+[Home page](http://joeykblack.github.io)
+[PDF Resume](http://joeykblack.github.io/resume/joeykblack_resume.pdf)
 
 Summary of Qualifications
 -------------------------
@@ -14,26 +15,26 @@ Summary of Qualifications
 
 *   9+ years programming experience
 
-*	Java, Hibernate, Spring, GWT
-
-*	Git, WebSphere 8.5, RSA, Oracle, Linux
-
-*	SOA, OOD, Design Patterns, Functional Programming
-
-*	Additional experience with: Clojure, Common Lisp, Haskell, 
-	JavaScript, HTML, XML, CSS, C/C++, Python
-
 Work Experience
 ---------------
 
 *   **NAVAIR**, FRCSE
 
-    Software Engineer, 6/22/2009 - Present
+    IT Specialist, 6/22/2009 - Present
 
-	-	Technologies: Java, Hibernate, Spring, GWT
-    -   Design and development of a SCM reporting tool
+    Supervisor: Bill Carey
+
+    Responsibilities and Activities:
+
+    -   Design and development of a CVS reporting tool
     -   Design and development on CONOPS and MAXIMO Interfaces projects
-    -   Member of the Architectural Design Team  
+    -   Supporting MAXIMO Core  
+
+    Primary Technologie:
+
+    -   Java
+    -   GWT
+    -   Hibernate
 
 Education
 ---------
@@ -41,6 +42,8 @@ Education
 *   **University of North Florida**, Jacksonville, Florida
 
     Bachelor of Science, Major in Computer Science, April 2009
+
+    GPA: 3.8/4.0
 
     Honors & Awards:
 
@@ -50,13 +53,20 @@ Education
     -   UPE Honors Society
     -   Graduated summa cum laude 09   
 
-Projects and Interests
-----------------------
+    Courses taken include:
+
+    -   Computer Graphics
+    -   Particle Systems (DIS under Dr. Chua)
+    -   Computer Networks/Dist Process
+    -   Cryptography
+    -   Software Development
+
+Personal Projects 
+-----------------
+
+*   **Particle Engine**: I developed a particle rendering engine using C++, OpenGL and NVIDIA hardware acceleration.
 
 *   **Computer Go**: I currently enjoy studying game playing algorithms for Go.
-
-*	**Functional Programming**: I enjoy studying and experimenting with: 
-	Clojure, Common Lisp, Haskell, lambda calculus and other imperative programming topics.
 
 Other Work Experience
 ---------------------
@@ -70,4 +80,8 @@ Other Work Experience
     STARS Karate Instructor, Fall 2006 and Spring 2007
 
     Karate classes for kids ages k5 through 4th grade. 
+
+*   **Construction** for independent contractor Jimmy Hughes
+
+    Jacksonville Beach, Florida, Summer 2003
 

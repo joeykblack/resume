@@ -11,7 +11,6 @@ html:  clean $(HTML)
 
 %.html: %.md
 	python resume.py html $(GRAVATAR_OPTION) < $< | pandoc -t html -c resume.css -o $@
-	cp $@ index.html
 
 %.pdf:  %.md $(LATEX_TEMPLATE)
 	python resume.py tex < $< | pandoc --template=$(LATEX_TEMPLATE) -H header.tex -o $@
