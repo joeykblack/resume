@@ -8,17 +8,17 @@ joeykblack.github.io
 Summary of Qualifications
 -------------------------
 
-*   BS in Computer Science
+*   BS in Computer Science (summa cum laude)
 
 *   4+ years professional experience
 
 *   9+ years programming experience
 
-*	Java, Hibernate, Spring, GWT
+*	Java, Hibernate, JPA, Spring, GWT
 
 *	Git, WebSphere 8.5, RSA, Oracle, Linux
 
-*	SOA, OOD, Design Patterns, Functional Programming
+*	Object Oriented Design, Design Patterns, SOA, Agile
 
 *	Additional experience with: Clojure, Common Lisp, Haskell, 
 	JavaScript, HTML, XML, CSS, C/C++, Python
@@ -30,10 +30,12 @@ Work Experience
 
     Software Engineer, 6/22/2009 - Present
 
-	-	Technologies: Java, Hibernate, Spring, GWT
-    -   Design and development of a SCM reporting tool
+    -   Member of the Architectural Design Team
+	-	Contributed to organizational libraries and framework
     -   Design and development on CONOPS and MAXIMO Interfaces projects
-    -   Member of the Architectural Design Team  
+    -   Created SCM reporting tool
+	-	Provide guidance to junior developers
+	-	Crated dynamic banner solution using image recognition
 
 Education
 ---------
@@ -41,22 +43,32 @@ Education
 *   **University of North Florida**, Jacksonville, Florida
 
     Bachelor of Science, Major in Computer Science, April 2009
+	
+	GPA: 3.8 / 4.0
 
-    Honors & Awards:
+    Honers & Awards:
 
     -   Dean's List: Spring 06 through Fall 08
-    -   President's Honor Roll: Fall 06, Spring 06
+    -   President's Honer Roll: Fall 06, Spring 06
     -   Academic Excellence in Computer Science: Spring 08
-    -   UPE Honors Society
-    -   Graduated summa cum laude 09   
+    -   UPE Honers Society
+	
+*	**Additional Courses**
+
+	-	UF - Analysis of Algorithms (COT5405)
+	-	Stanford - Introduction to Artificial Intelligence (top 5%)
+	-	Stanford - Machine Learning
 
 Projects and Interests
 ----------------------
 
-*   **Computer Go**: I currently enjoy studying game playing algorithms for Go.
+*   **Computer Go**: I currently enjoy developing game playing algorithms for Go. 
+	Java, C, Common Lisp, Clojure
 
-*	**Functional Programming**: I enjoy studying and experimenting with: 
-	Clojure, Common Lisp, Haskell, lambda calculus and other imperative programming topics.
+*	**Side Projects**
+	-	Mystical Basket: Did early research and development for MistyKit website. C#, JavaScript
+	-	Popular Motor Cars: Crated car listing application. Python, Google App Engine
+	-	LifeThrive: Created personality profile test. Python, XSLT, Google App Engine
 
 Other Work Experience
 ---------------------
@@ -67,7 +79,5 @@ Other Work Experience
 
 *   **Beaches Chapel School**, Jacksonville, Florida
 
-    STARS Karate Instructor, Fall 2006 and Spring 2007
-
-    Karate classes for kids ages k5 through 4th grade. 
+    Karate Instructor, Fall 2006 and Spring 2007
 
