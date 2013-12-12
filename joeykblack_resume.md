@@ -46,12 +46,12 @@ Education
 	
 	GPA: 3.8 / 4.0
 
-    Honers & Awards:
+    Honors & Awards:
 
     -   Dean's List: Spring 06 through Fall 08
     -   President's Honer Roll: Fall 06, Spring 06
     -   Academic Excellence in Computer Science: Spring 08
-    -   UPE Honers Society
+    -   UPE Honors Society
 	
 *	**Additional Courses**
 
