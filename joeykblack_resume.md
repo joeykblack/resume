@@ -19,12 +19,12 @@ Summary of Qualifications
 *	Object Oriented Design, Design Patterns, SOA, Agile
 
 *	Additional experience with: Clojure, Common Lisp, Haskell, 
-	JavaScript, HTML, XML, CSS, C/C++, Python
+	JavaScript, SQL, XML, C/C++, Python
 
 Work Experience
 ---------------
 
-*	**NAVAIR**, FRCSE
+*	**NAVAIR**, Jacksonville, Florida
 
 	Software Engineer, 6/22/2009 - Present
 
@@ -70,4 +70,3 @@ Other Work Experience
 *	**Beaches Chapel School**, Jacksonville, Florida
 
 	Karate Instructor, Fall 2006 and Spring 2007
-

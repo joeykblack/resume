@@ -9,79 +9,66 @@ joeykblack@gmail.com
 Summary of Qualifications
 -------------------------
 
-*   BS in Computer Science
+*	BS in Computer Science (summa cum laude)
 
-*   4+ years professional experience
+*	10+ years programming experience (4.5+ years professional)
 
-*   9+ years programming experience
+*	Java, Hibernate, JPA, Spring, GWT
+
+*	Git, WebSphere 8.5, RSA, Oracle, Linux
+
+*	Object Oriented Design, Design Patterns, SOA, Agile
+
+*	Additional experience with: Clojure, Common Lisp, Haskell, 
+	JavaScript, SQL, XML, C/C++, Python
 
 Work Experience
 ---------------
 
-*   **NAVAIR**, FRCSE
+*	**NAVAIR**, Jacksonville, Florida
 
-    IT Specialist, 6/22/2009 - Present
+	Software Engineer, 6/22/2009 - Present
 
-    Supervisor: Bill Carey
-
-    Responsibilities and Activities:
-
-    -   Design and development of a CVS reporting tool
-    -   Design and development on CONOPS and MAXIMO Interfaces projects
-    -   Supporting MAXIMO Core  
-
-    Primary Technologie:
-
-    -   Java
-    -   GWT
-    -   Hibernate
+	- Member of the Architectural Design Team
+	- Contributed to organizational libraries and framework
+	- Design and development on CONOPS and MAXIMO Interfaces projects
+	- Created SCM reporting tool
+	- Provide guidance to junior developers
+	- Crated dynamic banner solution using edge detection
 
 Education
 ---------
 
-*   **University of North Florida**, Jacksonville, Florida
+*	**University of North Florida**, Jacksonville, Florida
 
-    Bachelor of Science, Major in Computer Science, April 2009
+	[Bachelor of Science, Major in Computer Science, April 2009](https://docs.google.com/file/d/0B7YV8ipsgGKpTHBGV2ZtVkZ4bjg)
+	
+	GPA: [3.8 / 4.0](https://drive.google.com/file/d/0B7YV8ipsgGKpZ25EaGhsMzlNaDA)
+	
+*	**Additional Courses**
 
-    GPA: 3.8/4.0
+	-	UF - Analysis of Algorithms (COT5405)
+	-	Stanford - [Introduction to Artificial Intelligence (top 5%)](https://drive.google.com/file/d/0B7YV8ipsgGKpZWsyWVZUelFjZ2c)
 
-    Honors & Awards:
+Projects and Interests
+----------------------
 
-    -   Dean's List: Spring 06 through Fall 08
-    -   President's Honor Roll: Fall 06, Spring 06
-    -   Academic Excellence in Computer Science: Spring 08
-    -   UPE Honors Society
-    -   Graduated summa cum laude 09   
+*	**Computer Go**: I currently enjoy developing game playing algorithms for Go. 
+	Java, C, Common Lisp, Clojure
 
-    Courses taken include:
-
-    -   Computer Graphics
-    -   Particle Systems (DIS under Dr. Chua)
-    -   Computer Networks/Dist Process
-    -   Cryptography
-    -   Software Development
-
-Personal Projects 
------------------
-
-*   **Particle Engine**: I developed a particle rendering engine using C++, OpenGL and NVIDIA hardware acceleration.
-
-*   **Computer Go**: I currently enjoy studying game playing algorithms for Go.
+*	**Side Projects**
+	-	Mystical Basket: Did early research and development for MistyKit website. C#, JavaScript
+	-	Popular Motor Cars: Crated car listing application. Python, Google App Engine
+	-	LifeThrive: Created personality profile test. Python, XSLT, Google App Engine
 
 Other Work Experience
 ---------------------
 
-*   **Ponte Vedra Inn and Club**, Ponte Vedra Beach, Florida
+*	**Ponte Vedra Inn and Club**, Ponte Vedra Beach, Florida
 
-    Security Guard, 2/2008 - 10/2008
+	Security Guard, 2/2008 - 10/2008
 
-*   **Beaches Chapel School**, Jacksonville, Florida
+*	**Beaches Chapel School**, Jacksonville, Florida
 
-    STARS Karate Instructor, Fall 2006 and Spring 2007
-
-    Karate classes for kids ages k5 through 4th grade. 
-
-*   **Construction** for independent contractor Jimmy Hughes
-
-    Jacksonville Beach, Florida, Summer 2003
+	Karate Instructor, Fall 2006 and Spring 2007
 
