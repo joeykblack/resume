@@ -1,3 +1,0 @@
-[submodule "pandoc-templates"]
-	path = pandoc-templates
-	url = http://github.com:mwhite/pandoc-templates
