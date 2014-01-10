@@ -10,9 +10,7 @@ Summary of Qualifications
 
 *	BS in Computer Science (summa cum laude)
 
-*	4.5+ years professional experience
-
-*	10+ years programming experience
+*	10+ years programming experience (4.5+ years professional)
 
 *	Java, Hibernate, JPA, Spring, GWT
 
@@ -35,7 +33,7 @@ Work Experience
 	- Design and development on CONOPS and MAXIMO Interfaces projects
 	- Created SCM reporting tool
 	- Provide guidance to junior developers
-	- Crated dynamic banner solution using image recognition
+	- Crated dynamic banner solution using edge detection
 
 Education
 ---------
@@ -45,13 +43,6 @@ Education
 	Bachelor of Science, Major in Computer Science, April 2009
 	
 	GPA: 3.8 / 4.0
-
-	Honors & Awards:
-
-	- Dean's List: Spring 06 through Fall 08
-	- President's Honer Roll: Fall 06, Spring 06
-	- Academic Excellence in Computer Science: Spring 08
-	- UPE Honors Society
 	
 *	**Additional Courses**
 
