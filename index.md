@@ -13,9 +13,9 @@ Summary of Qualifications
 
 *	10+ years programming experience (4.5+ years professional)
 
-*	Java, Hibernate, JPA, Spring, GWT
+*	Java, Hibernate, JPA, Spring, GWT, JAAS, JAX-WS
 
-*	Git, WebSphere 8.5, RSA, Oracle, Linux
+*	Git, Jenkins, Ant, WebSphere 8.5, RSA, Oracle, Linux
 
 *	Object Oriented Design, Design Patterns, SOA, Agile
 
