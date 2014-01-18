@@ -3,8 +3,8 @@ Joey K Black
 
 Jacksonville, Florida
 joeykblack@gmail.com
-[Home page](http://joeykblack.github.io)
-[PDF Resume](http://joeykblack.github.io/resume/joeykblack_resume.pdf)
+joeykblack.github.io
+(904) 662-8117
 
 Summary of Qualifications
 -------------------------
@@ -41,15 +41,14 @@ Education
 
 *	**University of North Florida**, Jacksonville, Florida
 
-	[Bachelor of Science, Major in Computer Science, April 2009](https://docs.google.com/file/d/0B7YV8ipsgGKpTHBGV2ZtVkZ4bjg)
+	Bachelor of Science, Major in Computer Science, April 2009
 	
-	GPA: [3.8 / 4.0](https://drive.google.com/file/d/0B7YV8ipsgGKpZ25EaGhsMzlNaDA)
+	GPA: 3.8 / 4.0
 	
 *	**Additional Courses**
 
 	-	UF - Analysis of Algorithms (COT5405)
-	-	Stanford - [Introduction to Artificial Intelligence (top 5%)](https://drive.google.com/file/d/0B7YV8ipsgGKpZWsyWVZUelFjZ2c)
-	-	Stanford - [Machine Learning](https://drive.google.com/file/d/0B7YV8ipsgGKpcEdkQnEzb1B5TlhkRmJYY1VwVWpBWTBmT3NB)
+	-	Stanford - Introduction to Artificial Intelligence (top 5%)
 
 Projects and Interests
 ----------------------
@@ -72,4 +71,3 @@ Other Work Experience
 *	**Beaches Chapel School**, Jacksonville, Florida
 
 	Karate Instructor, Fall 2006 and Spring 2007
-
