@@ -55,10 +55,21 @@ Projects and Interests
 ----------------------
 
 *	**Computer Go**: I currently enjoy developing game playing algorithms for Go. 
-	Java, C, Common Lisp, Clojure
+	Java, C, Common Lisp
 
 *	**Side Projects**
 	-	Mystical Basket: Did early research and development for MistyKit website. C#, JavaScript
 	-	Popular Motor Cars: Crated car listing application. Python, Google App Engine
 	-	LifeThrive: Created personality profile test. Python, XSLT, Google App Engine
+
+Other Work Experience
+---------------------
+
+*	**Ponte Vedra Inn and Club**, Ponte Vedra Beach, Florida
+
+	Security Guard, 2/2008 - 10/2008
+
+*	**Beaches Chapel School**, Jacksonville, Florida
+
+	Karate Instructor, Fall 2006 and Spring 2007
 

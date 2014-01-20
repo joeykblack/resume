@@ -40,20 +40,21 @@ Education
 
 *	**University of North Florida**, Jacksonville, Florida
 
-	Bachelor of Science, Major in Computer Science, April 2009
+	[Bachelor of Science, Major in Computer Science, April 2009](https://docs.google.com/file/d/0B7YV8ipsgGKpTHBGV2ZtVkZ4bjg)
 	
-	GPA: 3.8 / 4.0
+	GPA: [3.8 / 4.0](https://drive.google.com/file/d/0B7YV8ipsgGKpZ25EaGhsMzlNaDA)
 	
 *	**Additional Courses**
 
 	-	UF - Analysis of Algorithms (COT5405)
-	-	Stanford MOOC - Introduction to Artificial Intelligence (top 5%)
+	-	Stanford MOOC - [Introduction to Artificial Intelligence (top 5%)](https://drive.google.com/file/d/0B7YV8ipsgGKpZWsyWVZUelFjZ2c)
+	-	Stanford MOOC - [Machine Learning](https://drive.google.com/file/d/0B7YV8ipsgGKpcEdkQnEzb1B5TlhkRmJYY1VwVWpBWTBmT3NB)
 
 Projects and Interests
 ----------------------
 
 *	**Computer Go**: I currently enjoy developing game playing algorithms for Go. 
-	Java, C, Common Lisp, Clojure
+	Java, C, Common Lisp
 
 *	**Side Projects**
 	-	Mystical Basket: Did early research and development for MistyKit website. C#, JavaScript
@@ -70,3 +71,4 @@ Other Work Experience
 *	**Beaches Chapel School**, Jacksonville, Florida
 
 	Karate Instructor, Fall 2006 and Spring 2007
+
