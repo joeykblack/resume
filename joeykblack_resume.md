@@ -47,7 +47,7 @@ Education
 *	**Additional Courses**
 
 	-	UF - Analysis of Algorithms (COT5405)
-	-	Stanford - Introduction to Artificial Intelligence (top 5%)
+	-	Stanford MOOC - Introduction to Artificial Intelligence (top 5%)
 
 Projects and Interests
 ----------------------
