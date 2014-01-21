@@ -33,7 +33,7 @@ Work Experience
 	- Design and development on CONOPS and MAXIMO Interfaces projects
 	- Created SCM reporting tool
 	- Provide guidance to junior developers
-	- Crated dynamic banner solution using edge detection
+	- Created dynamic banner solution using edge detection
 
 Education
 ---------
@@ -58,7 +58,7 @@ Projects and Interests
 
 *	**Side Projects**
 	-	Mystical Basket: Did early research and development for MistyKit website. C#, JavaScript
-	-	Popular Motor Cars: Crated car listing application. Python, Google App Engine
+	-	Popular Motor Cars: Created car listing application. Python, Google App Engine
 	-	LifeThrive: Created personality profile test. Python, XSLT, Google App Engine
 
 Other Work Experience
