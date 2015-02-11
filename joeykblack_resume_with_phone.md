@@ -11,7 +11,7 @@ Summary of Qualifications
 
 *	BS in Computer Science (summa cum laude)
 
-*	10+ years programming experience (4.5+ years professional)
+*	10+ years programming experience (5+ years professional)
 
 *	Java, Hibernate, JPA, Spring, GWT, JAAS, JMS, JAX-WS
 
@@ -54,7 +54,7 @@ Education
 Projects and Interests
 ----------------------
 
-*	**Computer Go**: I currently enjoy developing game playing algorithms for Go. 
+*	**Computer Go**: I enjoy developing game playing algorithms for Go. 
 	Java, C, Common Lisp
 
 *	**Side Projects**
