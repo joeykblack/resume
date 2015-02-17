@@ -30,14 +30,10 @@ Work Experience
 
 	- Design and development on several major projects
 	- Member of the Architectural Design Team
-    - Configuration and automation of development operations
-    - Analysis and resolution of security issues
+	- Configuration and automation of development operations
+	- Analysis and resolution of security issues
 	- Provide guidance to junior developers
-    
-	Selected Accomplishments:
-    
-    - Developed code generation solutions that significantly reduced development and rework times
-	- Created dynamic banner solution using edge detection
+	- Developed code generation solutions that significantly reduced development and rework times
 
 Education
 ---------

@@ -16,7 +16,7 @@ html:  clean gen $(HTML)
 	python resume.py tex < $< | pandoc --template=$(LATEX_TEMPLATE) -H header.tex -o $@
 
 gen:
-    python gen_resume_md.py
+	python gen_resume_md.py
     
 clean:
 	rm -f *.html *.pdf *.md
