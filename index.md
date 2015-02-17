@@ -19,8 +19,7 @@ Summary of Qualifications
 
 *	Object Oriented Design, Design Patterns, SOA, Agile
 
-*	Additional experience with: Clojure, Common Lisp, Haskell, 
-	JavaScript, SQL, XML, C/C++, Python
+*	Additional experience with: Clojure, Groovy, Python, Common Lisp, C/C++, PL/SQL
 
 Work Experience
 ---------------
@@ -29,11 +28,15 @@ Work Experience
 
 	Software Engineer, 6/22/2009 - Present
 
+	- Design and development on several major projects
 	- Member of the Architectural Design Team
-	- Contributed to organizational libraries and framework
-	- Design and development on CONOPS and MAXIMO Interfaces projects
-	- Created SCM reporting tool
+    - Configuration and automation of development operations
+    - Analysis and resolution of security issues
 	- Provide guidance to junior developers
+    
+	Selected Accomplishments:
+    
+    - Developed code generation solutions that significantly reduced development and rework times
 	- Created dynamic banner solution using edge detection
 
 Education
