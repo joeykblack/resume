@@ -63,7 +63,7 @@ Projects and Interests
 *	**Side Projects**
 	-	Mystical Basket: Did early research and development for MistyKit website. C#, JavaScript
 	-	Popular Motor Cars: Created car listing application. Python, Google App Engine
-	-	LifeThrive: Created personality profile test. Python, XSLT, Google App Engine
+	-	LifeThrive: Developed personality profile test. Python, XSLT, Google App Engine
 
 Other Work Experience
 ---------------------
