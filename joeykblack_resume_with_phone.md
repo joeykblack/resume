@@ -11,7 +11,7 @@ Summary of Qualifications
 
 *	BS in Computer Science (summa cum laude)
 
-*	10+ years programming experience (5+ years professional)
+*	10+ years computer programming experience (5+ years professional)
 
 *	Java, Hibernate, JPA, Spring, GWT, JAAS, JMS, JAX-WS
 
@@ -19,7 +19,7 @@ Summary of Qualifications
 
 *	Object Oriented Design, Design Patterns, SOA, Agile
 
-*	Additional experience with: Clojure, Groovy, Python, Common Lisp, C/C++, PL/SQL
+*	Additional experience: Clojure, Groovy, Python, Common Lisp, C/C++, PL/SQL
 
 Work Experience
 ---------------
@@ -40,7 +40,7 @@ Education
 
 *	**University of North Florida**, Jacksonville, Florida
 
-	[Bachelor of Science, Major in Computer Science, April 2009](https://docs.google.com/file/d/0B7YV8ipsgGKpTHBGV2ZtVkZ4bjg)
+	[Bachelor of Science, Computer and Information Sciences, April 2009](https://docs.google.com/file/d/0B7YV8ipsgGKpTHBGV2ZtVkZ4bjg)
 	
 	GPA: [3.8 / 4.0](https://drive.google.com/file/d/0B7YV8ipsgGKpZ25EaGhsMzlNaDA)
 	
@@ -70,5 +70,5 @@ Other Work Experience
 
 *	**Beaches Chapel School**, Jacksonville, Florida
 
-	Karate Instructor, Fall 2006 and Spring 2007
+	Karate Instructor, fall 2006 and spring 2007
 
