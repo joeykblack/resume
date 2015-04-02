@@ -1,6 +1,11 @@
-	- Design and development on several major projects
-	- Member of the Architectural Design Team
-	- Configuration and automation of development operations
-	- Analysis and resolution of security issues
-	- Provide guidance to junior developers
-	- Developed code generation solutions that significantly reduced development and rework times
+	- As a member of the ADT, I assist in developing high level organizational architecture, promote re-usability and coordinating consistency across projects.
+	- As the Team Lead for MXES_IF I coordinated analysis, design, development and testing for the v1.0.1.1 release.
+	- As the Architect for several projects I developed a high level solution that aligned with our organizational goals and standards, facilitated long term supportability and maintainability and was feasible with the given resource, time  and system constraints.
+	- As a Developer for CONOPS and NDMS_DS I developed several components including: 
+		- A GWT RPC security framework used by all integrated applications
+		- Migration scripts to migrate and merge databases
+		- A code generator that significantly reduced development time of new services
+	- In order to facilitate the resolution of the problem of whether to stay with Git or move to the RTC SCM I performed research, presented the results and developed a solution for integration.
+	- In order to improve our development process I have set-up and automated some of the source control, continuous integration, automated deployment and requirements tracking systems. 
+	- In order to encourage the ongoing improvement of development skills for myself and other NDMS developers, I have been assembling a collection of Code Katas in our SCM tool.
+	- In order to bring NDMS into compliance with STIG requirements I performed research and analysis and presented possible solutions.
