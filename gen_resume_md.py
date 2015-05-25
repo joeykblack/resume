@@ -19,7 +19,7 @@ def output_template(header, ndms_rolls, filename):
 def load(fileName):
     with open (fileName, "r") as part:
         part_string = part.read()
-		return part_string
+        return part_string
 
 def main():
     ndms_rolls_short = load("ndms_rolls_short.part")
@@ -29,10 +29,9 @@ def main():
     output_template(header_with_links, ndms_rolls_short, "index.md")
 	
     ndms_rolls_long = load("ndms_rolls_long.part")
-    output_template(header_with_phone, ndms_rolls_long, "joeykblack_resume_with_phone_for_dod.md"
+    output_template(header_with_phone, ndms_rolls_long, "joeykblack_resume_with_phone_for_dod.md")
 
 
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
