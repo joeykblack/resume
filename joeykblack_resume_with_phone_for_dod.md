@@ -39,7 +39,7 @@ Work Experience
 	- In order to facilitate the resolution of the problem of whether to stay with Git or move to the RTC SCM I performed research, presented the results and developed a solution for integration.
 	- In order to improve our development process I have set-up and automated many of our source control, continuous integration, automated deployment and requirements tracking systems. 
 	- In order to encourage the ongoing improvement of development skills for myself and other NDMS developers, I have been assembling a collection of Code Katas in our SCM tool.
-	- In order to bring NDMS into compliance with STIG requirements I performed research and analysis, presented possible solutions and am participated in resolution efforts.
+	- In order to bring NDMS into compliance with STIG requirements I performed research and analysis, presented possible solutions and participated in resolution efforts.
 
 
 Education
