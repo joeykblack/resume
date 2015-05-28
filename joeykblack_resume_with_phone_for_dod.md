@@ -30,7 +30,7 @@ Work Experience
 
 	- As a member of the Architectural Design Team, I assist in developing high level organizational architecture, promote re-usability, and coordinating consistency across projects.
 	- As the Team Lead for MXES_IF, I lead daily standup meetings, as well as coordinate analysis, design, development, and testing.
-	- As the Architect for several projects, I develop high level solutions that align with our organizational goals and standards, facilitate long term supportability and maintainability, and which are feasible with the given resource, time, and system constraints.
+	- As the Architect for several projects, I develop high level solutions that align with our organizational goals and standards, facilitate long term supportability and maintainability, and are feasible with the given resource, time, and system constraints.
 	- As a Developer on several major projects, I have implemented multiple solutions including: 
 		- A GWT RPC security framework used by all integrated applications
 		- Migration scripts to migrate and merge databases
