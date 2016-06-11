@@ -10,15 +10,15 @@ Summary of Qualifications
 
 *	BS in Computer Science (summa cum laude)
 
-*	10+ years computer programming experience (5+ years professional)
+*	7+ developing enterprise applications
 
-*	Java, Hibernate, JPA, Spring, GWT, JAAS, JMS, JAX-WS
+*	Java, Hibernate, JPA, Spring, REST, JAAS, JMS, GWT
 
-*	Git, Jenkins, Ant, WebSphere 8.5, RSA, Oracle, Linux
+*	Git, Jenkins, Ant, Ivy, Eclipse, Oracle, Linux, WebSphere 8.5
 
 *	Object Oriented Design, Design Patterns, SOA, Agile
 
-*	Additional experience: Clojure, Groovy, Python, Common Lisp, C/C++, PL/SQL
+*	Additional experience: Clojure, Groovy, Python, PL/SQL
 
 Work Experience
 ---------------
@@ -47,12 +47,13 @@ Education
 Projects and Interests
 ----------------------
 
-*	**Computer Go**: I enjoy developing game playing algorithms for Go. 
-	Java, C, Common Lisp, Clojure
+*	**Android - Top Priority**: An app that origanizes tasks by priority and due date
+
+*	**Computer Go**: I have written Go playing programs in several languages 
+	[Java](https://github.com/joeykblack/Go_Java), [C](https://github.com/joeykblack/Go_Cpp), [Common Lisp](https://github.com/joeykblack/Go_CommonLisp), [Clojure](https://github.com/joeykblack/Go_Clojure)
 
 *	**Side Projects**
 	-	Mystical Basket: Did early research and development for MistyKit website. C#, JavaScript
-	-	Popular Motor Cars: Created car listing application. Python, Google App Engine
 	-	LifeThrive: Developed personality profile test. Python, XSLT, Google App Engine
 
 Other Work Experience
