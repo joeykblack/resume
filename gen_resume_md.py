@@ -1,8 +1,8 @@
 from string import Template
 
-header = "joeykblack.github.io"
+header = "[joeykblack.github.io](http://joeykblack.github.io)"
 
-header_with_phone = """joeykblack.github.io
+header_with_phone = """[joeykblack.github.io](http://joeykblack.github.io)
 (904) 662-8117"""
 
 header_with_links = """[Home page](http://joeykblack.github.io)
