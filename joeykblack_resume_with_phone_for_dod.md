@@ -60,7 +60,7 @@ Education
 Past Projects
 -------------
 
-*	**[Top Priority](https://play.google.com/store/apps/details?id=joeykblack.organizer.todo)**: Android applications for task management and prioritiztion
+*	**[Top Priority](https://play.google.com/store/apps/details?id=joeykblack.organizer.todo)**: Android applications for task management and prioritization
 
 *	**Computer Go**: I have written Go playing programs in several languages 
 	[Java](https://github.com/joeykblack/Go_Java), [C](https://github.com/joeykblack/Go_Cpp), [Common Lisp](https://github.com/joeykblack/Go_CommonLisp), [Clojure](https://github.com/joeykblack/Go_Clojure)

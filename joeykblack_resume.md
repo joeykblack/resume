@@ -28,9 +28,9 @@ Work Experience
 	Software Engineer, 6/22/2009 - Present
 
 	- Developer, architect and team lead on multiple enterprise applications
-	- Colaborate in an Agile enviroment to capture requirements, design, code, document, test and release applications
-	- Develope frameworks used across multiple applications
-	- Develope code generation solutions that significantly reduce development and rework times
+	- Collaborate in an Agile environment to capture requirements, design, code, document, test and release applications
+	- Develop frameworks used across multiple applications
+	- Develop code generation solutions that significantly reduce development and rework times
 	- Provide guidance, training and conduct code reviews for junior developers
 	- Configuration and automation of development operations
 
@@ -52,7 +52,7 @@ Education
 Past Projects
 -------------
 
-*	**[Top Priority](https://play.google.com/store/apps/details?id=joeykblack.organizer.todo)**: Android applications for task management and prioritiztion
+*	**[Top Priority](https://play.google.com/store/apps/details?id=joeykblack.organizer.todo)**: Android applications for task management and prioritization
 
 *	**Computer Go**: I have written Go playing programs in several languages 
 	[Java](https://github.com/joeykblack/Go_Java), [C](https://github.com/joeykblack/Go_Cpp), [Common Lisp](https://github.com/joeykblack/Go_CommonLisp), [Clojure](https://github.com/joeykblack/Go_Clojure)
