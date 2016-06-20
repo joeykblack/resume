@@ -13,11 +13,11 @@ Summary of Qualifications
 
 *	7+ years developing Java EE applications
 
-*	Frameworks: Hibernate, JPA, Spring, REST, JAAS, JMS, GWT
+*	REST, Hibernate, JPA, Spring, JAAS, JMS, GWT
 
-*	Tools/Platforms: Git, Jenkins, Ant, Ivy, Eclipse, Oracle, Linux, WebSphere 8.5
+*	Git, Jenkins, Ant, Ivy, Eclipse, Oracle, Linux, WebSphere 8.5
 
-*	Concepts: Object Oriented Design, Design Patterns, SOA, Agile
+*	Object Oriented Design, Design Patterns, SOA, Agile
 
 *	Additional experience: SOAP, Clojure, Groovy, Python, PL/SQL
 
@@ -29,10 +29,10 @@ Work Experience
 	Software Engineer, 6/22/2009 - Present
 
 	- Developer, architect and team lead on multiple enterprise applications
-	- Collaborate in an Agile environment to capture requirements, design, code, document, test and release applications
-	- Develop frameworks used across multiple applications
-	- Develop code generation solutions that significantly reduce development and rework times
-	- Provide guidance, training and conduct code reviews for junior developers
+	- Collaborated in an Agile environment to capture requirements, design, code, document, test and release applications
+	- Developed services and frameworks used across multiple applications
+	- Developed code generation solutions that significantly reduced development and rework times
+	- Provided guidance, training and conducted code reviews for junior developers
 	- Configuration and automation of development operations
 
 Education
