@@ -12,11 +12,11 @@ Summary of Qualifications
 
 *	7+ years developing Java EE applications
 
-*	REST, Hibernate, JPA, Spring, JAAS, JMS, GWT
+*	JAX-RS, Hibernate, JPA, Spring, JAAS, JMS, GWT
 
 *	Git, Jenkins, Ant, Ivy, Eclipse, Oracle, Linux, WebSphere 8.5
 
-*	Object Oriented Design, Design Patterns, SOA, Agile
+*	REST, Object Oriented Design, Design Patterns, Agile
 
 *	Additional experience: SOAP, Clojure, Groovy, Python, PL/SQL
 
